@@ -1,4 +1,4 @@
-# cik-ticker
+#cik-ticker
 Complete list of cik ticker symbol map in 20,000 lines csv file
 Also includes the source code to create the file
 
