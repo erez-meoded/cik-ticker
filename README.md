@@ -14,5 +14,5 @@ and more
 Currently holds about 20,000 companies of which, 12,000 has ticker
 
 ## Usege:
-You should get your EDGAR API secret key from: http://developer.edgar-online.com
+You should get your EDGAR API secret key from: http://developer.edgar-online.com and replace the xxxxx.. in "appkey"
 
