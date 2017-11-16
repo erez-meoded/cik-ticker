@@ -2735,7 +2735,7 @@ cik,companyname,entityid,marketoperator,markettier,primaryexchange,primarysymbol
 0000792161,"ROYAL HAWAIIAN ORCHARDS, L.P.",1778,OTC Markets,OTCQX U.S.,OTC,NNUTU,0100,Agricultural Production-Crops
 0000792641,BIO REFERENCE LABORATORIES INC,1405,,,,,8071,Services-Medical Laboratories
 0000792684,"ELEV8 BRANDS, INC",461252,OTC Markets,OTC Pink Current,OTC,VATE,,
-0000792935,GREENESTONE HEALTHCARE CORP,3630,OTC Markets,OTCQB,OTC,GRST,8062,"Services-General Medical and Surgical Hospitals, Not Elsewhere C"
+0000792935,ETHEMA HEALTH CORP,3630,OTC Markets,OTCQB,OTC,GRST,8062,"Services-General Medical and Surgical Hospitals, Not Elsewhere C"
 0000792966,FARMERS & MERCHANTS BANCORP INC,5643,OTC Markets,OTCQX U.S. Premier,Nasdaq Capital Market,FMAO,6035,"Savings Institution, Federally Chartered"
 0000792977,AMAG PHARMACEUTICALS INC.,7262,NASDAQ,NASDAQ Global Select Market,Nasdaq Global Market,AMAG,2834,Pharmaceutical Preparations
 0000792984,RADVA CORP,7314,OTC Markets,OTC Pink No Information,OTC,RDVA,3086,Plastics Foam Products
@@ -5363,6 +5363,7 @@ cik,companyname,entityid,marketoperator,markettier,primaryexchange,primarysymbol
 0000932781,FIRST COMMUNITY CORP /SC/,4026,NASDAQ,NASDAQ Capital Market,Nasdaq Capital Market,FCCO,6022,State Commercial Banks
 0000932787,STMICROELECTRONICS NV,11598,NYSE,NYSE,NYSE,STM,3674,Semiconductors and Related Devices
 0000932789,SKY PLC,85767,,,,,4833,Television Broadcasting Stations
+0000932793,SKY PLC /ADR/,314006,OTC Markets,OTCQX International Premier,OTC,SKYAY,8880,American Depositary Receipts
 0000932818,SPANTEL COMMUNICATIONS INC,6913,,,,,4813,Telephone Communications (No Radiotelephone)
 0000932872,SHAW COMMUNICATIONS INC,58911,NYSE,NYSE,NYSE,SJR,4841,Cable and Other Pay Television Services
 0000932903,AVIGEN INC \DE,1254,,,,,2835,In Vitro and In Vivo Diagnostic Substances
@@ -8381,7 +8382,7 @@ cik,companyname,entityid,marketoperator,markettier,primaryexchange,primarysymbol
 0001094806,SMC RECORDINGS INC.,218,OTC Markets,OTC Pink Current,OTC,SMCE,7373,Services-Computer Integrated Systems Design
 0001094808,"VERTRO, INC.",67476,,,,,7389,"Services-Business Services, Not Elsewhere Classified"
 0001094810,MUTUALFIRST FINANCIAL INC,67523,NASDAQ,NASDAQ Global Market,Nasdaq Global Market,MFSF,6022,State Commercial Banks
-0001094814,"CARTESIAN, INC.",9443,NASDAQ,NASDAQ Global Market,Nasdaq Global Market,CRTN,8742,Services-Management Consulting Services
+0001094814,"CARTESIAN, INC.",9443,NASDAQ,NASDAQ Global Market,OTC,CRTN,8742,Services-Management Consulting Services
 0001094816,VOICE MOBILITY INTERNATIONAL INC,5724,OTC Markets,OTC Pink No Information,OTC,VMII,4822,Telegraph and Other Message Communications
 0001094831,"BGC PARTNERS, INC.",67609,NASDAQ,NASDAQ Global Select Market,Nasdaq Global Market,BGCP,6200,"Security and Commodity Brokers, Dealers, Exchanges and Services"
 0001094847,"ONCOVISTA INNOVATIVE THERAPIES, INC",69657,OTC Markets,OTC Pink No Information,OTC,OVIT,2834,Pharmaceutical Preparations
@@ -8850,7 +8851,7 @@ cik,companyname,entityid,marketoperator,markettier,primaryexchange,primarysymbol
 0001106714,PSI TECHNOLOGIES HOLDINGS INC,97505,,,,,3674,Semiconductors and Related Devices
 0001106773,"SCIELE PHARMA, INC.",73423,,,,,2834,Pharmaceutical Preparations
 0001106836,SGD HOLDINGS LTD,73553,OTC Markets,OTC Pink Current,OTC,SGDH,5094,"Wholesale-Jewelry, Watches, Precious Stones and Metals"
-0001106838,"CHANTICLEER HOLDINGS, INC.",73101,NASDAQ,NASDAQ Capital Market,Nasdaq Capital Market,HOTR,5812,Retail-Eating Places
+0001106838,"CHANTICLEER HOLDINGS, INC.",73101,NASDAQ,NASDAQ Capital Market,Nasdaq Capital Market,BURG,5812,Retail-Eating Places
 0001106842,SEEBEYOND TECHNOLOGY CORP,73357,,,,,7372,Services-Prepackaged Software
 0001106848,"EGPI FIRECREEK, INC.",85143,OTC Markets,OTC Pink No Information,OTC,EFIR,1382,Oil and Gas Field Exploration Services
 0001106851,OMNIVISION TECHNOLOGIES INC,73940,,,,,3674,Semiconductors and Related Devices
@@ -8986,7 +8987,7 @@ cik,companyname,entityid,marketoperator,markettier,primaryexchange,primarysymbol
 0001110456,INSIGHT CAPITAL INC,74716,,,,,4841,Cable and Other Pay Television Services
 0001110458,INSIGHT MIDWEST LP,74715,,,,,4841,Cable and Other Pay Television Services
 0001110480,"BANX & GREEN GROUP, INC.",74847,,,,,3585,Air-Conditioning and Warm Air Heating Equipment and Commercial a
-0001110482,WINGS & THINGS INC,75722,OTC Markets,OTC Pink Current,OTC,WGTG,6770,Blank Checks
+0001110482,WINGS & THINGS INC,75722,OTC Markets,OTC Pink Current,OTC,WGTG,2200,Textile mill products
 0001110507,ESCHELON TELECOM INC,75321,,,,,4813,Telephone Communications (No Radiotelephone)
 0001110569,"CHINA ENERGY & CARBON BLACK HOLDINGS, INC.",74762,,,,,1382,Oil and Gas Field Exploration Services
 0001110607,"DEEP DOWN, INC.",75280,OTC Markets,OTCQX U.S.,OTC,DPDW,3533,Oil and Gas Field Machinery and Equipment
@@ -11809,7 +11810,7 @@ cik,companyname,entityid,marketoperator,markettier,primaryexchange,primarysymbol
 0001313024,"VENOCO, INC.",669107,,,,,1311,Crude Petroleum and Natural Gas
 0001313275,BRIGHTCOVE INC,660008,NASDAQ,NASDAQ Global Select Market,Nasdaq Global Market,BCOV,7374,Services-Computer Processing and Data Preparation
 0001313310,"GRAVITY CO., LTD.",661340,NASDAQ,NASDAQ Capital Market,Nasdaq Capital Market,GRVY,7389,"Services-Business Services, Not Elsewhere Classified"
-0001313536,SOTHERLY HOTELS LP,660190,NASDAQ,NASDAQ Global Market,Nasdaq Global Market,SOHOM,7011,Hotels and Motels
+0001313536,SOTHERLY HOTELS LP,660190,,,,,7011,Hotels and Motels
 0001313605,RANCHO SANTA MONICA DEVELOPMENTS INC.,662431,,,,,6552,Land Subdividers and Developers (No Cemeteries)
 0001313665,ACCOONA CORP,660452,,,,,5960,Retail-Nonstore Retailers
 0001313730,"ATLANTIC SOUTHERN FINANCIAL GROUP, INC.",660381,,,,,6035,"Savings Institution, Federally Chartered"
@@ -14204,6 +14205,7 @@ cik,companyname,entityid,marketoperator,markettier,primaryexchange,primarysymbol
 0001407704,"LINGERIE FIGHTING CHAMPIONSHIPS, INC.",764582,OTC Markets,OTC Pink Current,OTC,BOTY,3640,Electric Lighting And Wiring Equipment
 0001407717,"SNOWDEN, INC.",752172,,,,,6510,Real Estate Operators (No Developers) and Lessors
 0001407739,"DUPONT FABROS TECHNOLOGY, INC.",753931,NYSE,NYSE,NYSE,DFT,6500,Real estate
+0001407838,CONSTANTINE METAL RESOURCES LTD.,752219,OTC Markets,OTC Pink Current,OTC,CNSNF,,
 0001407878,"CARBON SCIENCES, INC.",752457,OTC Markets,OTC Pink Current,OTC,CABN,4953,Refuse Systems
 0001407926,CELL KINETICS LTD,752697,OTC Markets,OTC Pink No Information,OTC,CKNTF,3845,Electromedical and Electrotherapeutic Apparatus
 0001407975,CANAM COAL CORP,752328,OTC Markets,OTC Pink Current,OTC,COECF,,
@@ -15174,7 +15176,7 @@ cik,companyname,entityid,marketoperator,markettier,primaryexchange,primarysymbol
 0001438660,AYERS EXPLORATION INC.,785368,OTC Markets,OTC Pink No Information,OTC,AYXE,1400,Mining and Quarrying Of Nonmetallic Minerals (No Fuels)
 0001438665,"MUNDUS GROUP, INC.",790492,OTC Markets,OTC Pink No Information,OTC,MNDP,,
 0001438672,BAKKEN ENERGY CORP.,783081,OTC Markets,OTC Pink No Information,OTC,BKEN,7500,"Services-Automotive Repair, Services and Parking"
-0001438673,EVERGREEN AGRA GLOBAL INVESTMENTS INC,787125,OTC Markets,OTC Pink Limited,OTC,EGRN,8742,Services-Management Consulting Services
+0001438673,EVERGREEN-AGRA GLOBAL INVESTMENTS INC,787125,OTC Markets,OTC Pink Limited,OTC,EGRN,8742,Services-Management Consulting Services
 0001438731,ALJ REGIONAL HOLDINGS INC,781729,NASDAQ,NASDAQ Global Market,Nasdaq Capital Market,ALJJ,7389,"Services-Business Services, Not Elsewhere Classified"
 0001438804,"LMB TECHNOLOGIES, INC.",782084,,,,,7389,"Services-Business Services, Not Elsewhere Classified"
 0001438817,"BRAND ENERGY, INC.",783150,,,,,1700,Construction-Special Trade Contractors
@@ -15838,7 +15840,7 @@ cik,companyname,entityid,marketoperator,markettier,primaryexchange,primarysymbol
 0001471781,GOPHER PROTOCOL INC.,811462,OTC Markets,OTCQB,OTC,GOPH,8742,Services-Management Consulting Services
 0001471824,TEUCRIUM COMMODITY TRUST,812164,NYSE,NYSE Arca,NYSE,CANE,6221,Commodity Contracts Brokers and Dealers
 0001471842,AUTO NETWORKS INTERNATIONAL CORP,811622,,,,,3714,Motor Vehicle Parts and Accessories
-0001471968,ENZYMEBIOSYSTEMS,812675,OTC Markets,OTC Pink Current,OTC,ENZBD,2834,Pharmaceutical Preparations
+0001471968,ENZYMEBIOSYSTEMS,812675,,,,,2834,Pharmaceutical Preparations
 0001472072,CONCORD MEDICAL SERVICES HOLDINGS LTD,815923,NYSE,NYSE,NYSE,CCM,8011,Services-Offices and Clinics Of Doctors Of Medicine
 0001472091,"EDGE THERAPEUTICS, INC.",811907,NASDAQ,NASDAQ Global Select Market,Nasdaq Global Market,EDGE,2834,Pharmaceutical Preparations
 0001472093,ATHENS BANCSHARES CORP,812033,OTC Markets,OTCQX U.S. Premier,OTC,AFCB,6035,"Savings Institution, Federally Chartered"
@@ -16357,7 +16359,7 @@ cik,companyname,entityid,marketoperator,markettier,primaryexchange,primarysymbol
 0001494413,TWO HANDS CORP,831314,OTC Markets,OTC Pink Current,OTC,TWOH,7389,"Services-Business Services, Not Elsewhere Classified"
 0001494448,"EMERGENT CAPITAL, INC.",834848,NYSE,NYSE,OTC,EMGC,6311,Life Insurance
 0001494502,"ZHONG WEN INTERNATIONAL HOLDING CO., LTD.",831259,,,,,3569,"General Industrial Machinery and Equipment, Not Elsewhere Classi"
-0001494538,"CORPORATE CAPITAL TRUST, INC.",831510,OTC,Grey Market,OTC,CPTC,,
+0001494538,"CORPORATE CAPITAL TRUST, INC.",831510,OTC,Grey Market,NYSE,CCT,,
 0001494558,AMBOW EDUCATION HOLDING LTD.,832935,OTC,Grey Market,OTC,AMBOY,8200,Services-Educational Services
 0001494562,CHINA INC,837273,,,,,3674,Semiconductors and Related Devices
 0001494582,BOSTON OMAHA CORP,839648,OTC Markets,OTC Pink Current,Nasdaq Capital Market,BOMN,6510,Real Estate Operators (No Developers) and Lessors
@@ -16568,7 +16570,7 @@ cik,companyname,entityid,marketoperator,markettier,primaryexchange,primarysymbol
 0001500689,CHINA MING YANG WIND POWER GROUP LTD,836699,,,,,3510,Engines And Turbines
 0001500703,TANGERINE HOLDINGS INC.,836537,,,,,1000,Metal Mining
 0001500836,"WOLVERINE BANCORP, INC.",837340,,,,,6036,"Savings Institutions, Not Federally Chartered"
-0001500837,SUNSHINE FINANCIAL INC,837725,OTC Markets,OTC Pink Current,OTC,SSNF,6035,"Savings Institution, Federally Chartered"
+0001500837,"SUNSHINE FINANCIAL, INC.",837725,OTC Markets,OTC Pink Current,OTC,SSNF,6035,"Savings Institution, Federally Chartered"
 0001500866,INTERXION HOLDING N.V.,845354,NYSE,NYSE,NYSE,INXN,7370,"Services-Computer Programming, Data Processing, Etc."
 0001500894,LOUISIANA FOOD CO,836782,OTC Markets,OTC Pink No Information,OTC,LUSI,2000,Food and kindred products
 0001500944,NEXOPTIC TECHNOLOGY CORP,837473,OTC Markets,OTC Pink Current,OTC,NXOPF,,
@@ -16968,7 +16970,7 @@ cik,companyname,entityid,marketoperator,markettier,primaryexchange,primarysymbol
 0001517248,ORGANIC PLANT HEALTH INC.,853040,OTC Markets,OTC Pink No Information,OTC,OPHI,2870,Agricultural Chemicals
 0001517301,MAUDORE MINERALS LTD.,851977,OTC Markets,OTC Pink Current,OTC,MAOMF,1040,Gold And Silver Ores
 0001517302,ARTISAN PARTNERS ASSET MANAGEMENT INC.,852162,NYSE,NYSE,NYSE,APAM,6282,Investment Advice
-0001517342,PACIFIC DRILLING S.A.,853161,OTC Markets,OTC Pink Current,OTC,PACDQ,1381,Drilling Oil and Gas Wells
+0001517342,PACIFIC DRILLING S.A.,853161,NYSE,NYSE,OTC,PACDQ,1381,Drilling Oil and Gas Wells
 0001517389,"JUBILANT FLAME INTERNATIONAL, LTD",852732,OTC Markets,OTCQB,OTC,JFIL,7371,Services-Computer Programming Services
 0001517396,STRATASYS LTD.,877906,NASDAQ,NASDAQ Global Select Market,Nasdaq Global Market,SSYS,3577,"Computer Peripheral Equipment, Not Elsewhere Classified"
 0001517399,GRUPO SUPERVIELLE S.A.,983312,NYSE,NYSE,NYSE,SUPV,6029,"Commercial Banks, Not Elsewhere Classified"
@@ -18034,7 +18036,7 @@ cik,companyname,entityid,marketoperator,markettier,primaryexchange,primarysymbol
 0001575975,MADISON VENTURES INC.,907117,OTC Markets,OTC Pink Current,OTC,MAVT,1000,Metal Mining
 0001575988,SILVER EAGLE ACQUISITION CORP.,909251,,,,,6770,Blank Checks
 0001576018,THIRD POINT REINSURANCE LTD.,910805,NYSE,NYSE,NYSE,TPRE,6331,"Fire, Marine and Casualty Insurance"
-0001576044,"QEP MIDSTREAM PARTNERS, LP",906174,,,,,4922,Natural Gas Transmission
+0001576044,ANDEAVOR MIDSTREAM PARTNERS LP,906174,,,,,4922,Natural Gas Transmission
 0001576169,"BENEFITFOCUS,INC.",913349,NASDAQ,NASDAQ Global Market,Nasdaq Global Market,BNFT,7372,Services-Prepackaged Software
 0001576197,"STRATEGIC ENVIRONMENTAL & ENERGY RESOURCES, INC.",907050,OTC Markets,OTCQB,OTC,SENR,4955,Hazardous Waste Management
 0001576263,"MIRATI THERAPEUTICS, INC.",906332,NASDAQ,NASDAQ Capital Market,Nasdaq Capital Market,MRTX,2834,Pharmaceutical Preparations
@@ -18485,9 +18487,9 @@ cik,companyname,entityid,marketoperator,markettier,primaryexchange,primarysymbol
 0001600983,"KNIGHTSCOPE, INC.",928459,,,,,3669,"Communications Equipment, Not Elsewhere Classified"
 0001600989,"GOLDMERX, INC.",929844,,,,,5944,Retail-Jewelry Stores
 0001601046,"KEYSIGHT TECHNOLOGIES, INC.",928983,NYSE,NYSE,NYSE,KEYS,3823,"Industrial Instruments for Measurement, Display, and Control of "
-0001601072,ATLANTICA YIELD PLC,931221,NASDAQ,NASDAQ Global Select Market,Nasdaq Global Market,ABY,4911,Electric Services
+0001601072,ATLANTICA YIELD PLC,931221,NASDAQ,NASDAQ Global Select Market,Nasdaq Global Market,AY,4911,Electric Services
 0001601199,"K2 DESIGN & STRATEGY, INC.",928925,,,,,7372,Services-Prepackaged Software
-0001601280,"MEDIXALL GROUP, INC.",928994,OTC Markets,OTCQB,OTC,MDXL,7374,Services-Computer Processing and Data Preparation
+0001601280,"MEDIXALL GROUP, INC.",928994,OTC Markets,OTCQB,OTC,MDXL,4011,"Railroads, Line-Haul Operating"
 0001601347,"PILGRIM BANCSHARES, INC.",929473,OTC Markets,OTC Pink Current,OTC,PLRM,6022,State Commercial Banks
 0001601485,ANGION BIOMEDICA CORP.,932580,,,,,2834,Pharmaceutical Preparations
 0001601545,"BLUE HILLS BANCORP, INC.",929475,NASDAQ,NASDAQ Global Select Market,Nasdaq Global Market,BHBK,6022,State Commercial Banks
@@ -19036,7 +19038,7 @@ cik,companyname,entityid,marketoperator,markettier,primaryexchange,primarysymbol
 0001634394,"REDWOOD SCIENTIFIC TECHNOLOGIES, INC.",958401,,,,,,
 0001634408,NEXTGLASS TECHNOLOGIES CORP.,959197,,,,,6770,Blank Checks
 0001634421,OGL HOLDINGS LTD.,959203,OTC,Grey Market,OTC,OGLH,0100,Agricultural Production-Crops
-0001634423,"RANDOLPH ACQUISITIONS, INC.",959199,,,,,6770,Blank Checks
+0001634423,"RANDOLPH ACQUISITIONS, INC.",959199,,,,,6500,Real estate
 0001634424,POWERCOMM HOLDINGS INC.,959214,,,,,1700,Construction-Special Trade Contractors
 0001634432,STRONGBRIDGE BIOPHARMA PLC,958849,NASDAQ,NASDAQ Global Select Market,Nasdaq Global Market,SBBP,2834,Pharmaceutical Preparations
 0001634447,JENSYN ACQUISITION CORP.,980141,NASDAQ,NASDAQ Capital Market,Nasdaq Capital Market,JSYN,6770,Blank Checks
@@ -19074,7 +19076,7 @@ cik,companyname,entityid,marketoperator,markettier,primaryexchange,primarysymbol
 0001636509,SHENG YING ENTERTAINMENT CORP.,961171,OTC Markets,OTCQB,OTC,SALL,6799,"Investors, Not Elsewhere Classified"
 0001636519,MADISON SQUARE GARDEN CO,961488,NYSE,NYSE,NYSE,MSG,7990,Services-Miscellaneous Amusement and Recreation
 0001636651,OVID THERAPEUTICS INC.,960747,NASDAQ,NASDAQ Global Select Market,Nasdaq Global Market,OVID,2834,Pharmaceutical Preparations
-0001636760,HUALE ACOUSTICS CORPORATION,960679,OTC Markets,OTC Pink Current,OTC,HYAS,7389,"Services-Business Services, Not Elsewhere Classified"
+0001636760,HUALE ACOUSTICS CORP,960679,OTC Markets,OTC Pink Current,OTC,HYAS,7389,"Services-Business Services, Not Elsewhere Classified"
 0001637139,"BLACKHAWK USA, INC.",961026,,,,,6513,Operators of Apartment Buildings
 0001637197,"CHEETAH ENTERPRISES, INC.",961512,OTC,Grey Market,OTC,CHTA,5500,Retail-Auto Dealers and Gasoline Stations
 0001637207,"PLANET FITNESS, INC.",968589,NYSE,NYSE,NYSE,PLNT,7997,Services-Membership Sports and Recreation Clubs
@@ -19446,7 +19448,7 @@ cik,companyname,entityid,marketoperator,markettier,primaryexchange,primarysymbol
 0001662524,"AKCEA THERAPEUTICS, INC.",983023,NASDAQ,NASDAQ Global Market,Nasdaq Capital Market,AKCA,2834,Pharmaceutical Preparations
 0001662574,"GROM SOCIAL ENTERPRISES, INC.",983883,OTC Markets,OTCQB,OTC,GRMM,3640,Electric Lighting And Wiring Equipment
 0001662640,FRANKLIN HILL ACQUISITION CORP,983486,,,,,6500,Real estate
-0001662684,KT HIGH-TECH MARKETING INC.,983490,,,,,6770,Blank Checks
+0001662684,KT HIGH-TECH MARKETING INC.,983490,,,,,3670,Electronic Components And Accessories
 0001662706,"TRUPAL MEDIA, INC.",983141,OTC,Grey Market,OTC,TRMM,7372,Services-Prepackaged Software
 0001663038,RELIANT SERVICE INC,983676,OTC,Grey Market,OTC,RLLT,5990,"Retail-Retail Stores, Not Elsewhere Classified"
 0001663641,ANDO HOLDINGS LTD.,984382,OTC Markets,OTC Pink Current,OTC,ADHG,7310,Services-Advertising
@@ -19537,7 +19539,7 @@ cik,companyname,entityid,marketoperator,markettier,primaryexchange,primarysymbol
 0001672885,DOERS EDUCATION ASEAN LTD,993487,,,,,6770,Blank Checks
 0001672897,DIVERSE DEVELOPMENT GROUP INC.,993493,,,,,6552,Land Subdividers and Developers (No Cemeteries)
 0001672899,LEGALL HOLDINGS INC.,993495,,,,,6770,Blank Checks
-0001672900,ALA CARTE CHARTS CORP,993494,,,,,6770,Blank Checks
+0001672900,ALA CARTE CHARTS CORP,993494,,,,,2741,Miscellaneous Publishing
 0001672985,CONYERS PARK ACQUISITION CORP.,997236,,,,,6770,Blank Checks
 0001673193,TGLT S.A.,996704,,,,,6500,Real estate
 0001673239,MAYFLOWER INVESTMENT GROUP INC,993248,,,,,6500,Real estate
@@ -19633,7 +19635,7 @@ cik,companyname,entityid,marketoperator,markettier,primaryexchange,primarysymbol
 0001681287,MOBODEXTER INC.,1003323,,,,,7372,Services-Prepackaged Software
 0001681343,"STREAMNET, INC.",1000588,,,,,5735,Retail-Record and Prerecorded Tape Stores
 0001681348,VIVOPOWER INTERNATIONAL PLC,1001342,NASDAQ,NASDAQ Capital Market,Nasdaq Capital Market,VVPR,4931,Electric and Other Services Combined
-0001681400,"CELEBIDDY, INC.",1001045,,,,,6770,Blank Checks
+0001681400,"CELEBIDDY, INC.",1001045,,,,,7370,"Services-Computer Programming, Data Processing, Etc."
 0001681459,TECHNIPFMC PLC,1001192,NYSE,NYSE,NYSE,FTI,3533,Oil and Gas Field Machinery and Equipment
 0001681524,NORTH LION HOLDING CORP,1001109,,,,,7990,Services-Miscellaneous Amusement and Recreation
 0001681556,"GEX MANAGEMENT, INC.",1002727,OTC Markets,OTC Pink Current,OTC,GXXM,8742,Services-Management Consulting Services
@@ -19935,6 +19937,6 @@ cik,companyname,entityid,marketoperator,markettier,primaryexchange,primarysymbol
 0001717993,RTO FINANCE CORP,1033525,,,,,6153,Short-Term Business Credit Institutions
 0001718873,"STONE BANCSHARES, INC.",1036242,,,,,,
 0001719323,"ENERGY CONVERSION SERVICES, INC.",1034883,,,,,4911,Electric Services
-0001719406,BIG ROCK PARTNERS ACQUISITION CORP.,1034975,,,,,,
+0001719406,BIG ROCK PARTNERS ACQUISITION CORP.,1034975,,,,,6770,Blank Checks
 0001719808,CO-OPTRADE,1036441,,,,,,
 0001721056,HOOPS SCOUTING USA,1036181,,,,,,
